@@ -1,4 +1,10 @@
-import kagglehub
+try:
+    import kagglehub
+except ImportError:
+    print("❌ kagglehub がインストールされていません。下部のターミナルにて、以下のコマンドを実行してください：")
+    print("    pip install kagglehub")
+    exit(1)
+
 import shutil
 import os
 
