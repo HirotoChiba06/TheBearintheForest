@@ -18,6 +18,8 @@
 
 [【備忘録】Vimの操作](https://qiita.com/one-a/items/a4e1d5a736d8408fd089)
 
+[Markdown記法 チートシート](https://qiita.com/Qiita/items/c686397e4a0f4f11683d#リンクカード)
+
 ***
 
 ~~Githubのアカウントテストです。無視して大丈夫。~~
