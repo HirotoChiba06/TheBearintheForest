@@ -8,7 +8,12 @@ except ImportError:
 csv_path = 'csv_files/J. League Data Site.csv'
 
 # csvファイルを読み込む
-data = pd.read_csv(csv_path)
+df = pd.read_csv(csv_path)
 
-# 出力
-print(data. head())
+
+
+#出力
+#dfの情報の表示。
+print(df.info())
+#このdfの年代を表示。
+print(str(df["Year"].min()) + " ~ " + str(df["Year"].max()))
