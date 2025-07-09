@@ -15,7 +15,7 @@
 
 
 ## 参考文献
-[https://ja.wikipedia.org/wiki/2017年のJリーグ](2017年のJリーグ - Wikipedia)
+[2017年のJリーグ - Wikipedia]( https://ja.wikipedia.org/wiki/2017年のJリーグ )
 
 [サッカーの試合データを収集したい〜データ分析〜](https://qiita.com/wooooo/items/ef97c50e6c8daa531420)
 
