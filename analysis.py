@@ -34,7 +34,7 @@ for i in df_2017['Home']:
     if i not in name_teams_2017:
         name_teams_2017.append(i)
 
-print(sorted(name_teams_2017) )
+print(sorted(name_teams_2017))
 print(len(name_teams_2017))
 
 #2017年のデータを表示。
@@ -45,6 +45,7 @@ print(df[df['Year'] == df['Year'].min()])
 
 #新しいdfを生成、行にチームの名前、列に、節、毎節の総得点でまとめること。
 #毎節の総得点は、勝利3、同点1、敗北0、試合の得失点を計算する、不数値は0とする。
+"""
 sec_2017 =[] 
 for i in df_2017['Sec']:
         if i not in sec_2017:
@@ -52,7 +53,7 @@ for i in df_2017['Sec']:
 
 print(sec_2017)
 
-"""
+
 2017-Result = pd.DataFrame(
     index = sec_2017,
 

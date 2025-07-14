@@ -1,4 +1,4 @@
-# SeminarOfBear
+# TheBearintheForest
 
 # J.League過去の戦歴解析による勝敗予想の生成。
 
