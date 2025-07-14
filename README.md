@@ -21,6 +21,8 @@
 
 [Jリーグの対戦成績をPythonでデータ分析してみた](https://qiita.com/wooooo/items/ab55104b4ae031291a62)
 
+[Meiji Yasuda J-League 1 2018-2019 League Log](https://www.kaggle.com/datasets/yosafatvs/meiji-yasuda-jleague-1-20182019-league-log)
+
 [【備忘録】Vimの操作](https://qiita.com/one-a/items/a4e1d5a736d8408fd089)
 
 [Markdown記法 チートシート](https://qiita.com/Qiita/items/c686397e4a0f4f11683d#リンクカード)
