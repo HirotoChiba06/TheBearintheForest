@@ -7,12 +7,11 @@
 * おーり
 * まさし
 
-
-
 ## 共有ノート
 [グループノート](https://docs.google.com/document/d/1UogcMVXJ5-siMRlcqXcS3fwUAkEcEVcJD9T2mvgNk7M/edit?tab=t.j4wy9d6ej5kb#heading=h.8h9jni7b0rj4)
 
-
+## 資料
+[Canva](https://www.canva.com/design/DAGtSJMlen8/TiP1Xx3hheL1Q7Jq8l4qWw/edit?utm_content=DAGtSJMlen8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)(閲覧のみ)
 
 ## 参考文献
 [2017年のJリーグ - Wikipedia]( https://ja.wikipedia.org/wiki/2017年のJリーグ )
