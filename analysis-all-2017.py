@@ -10,9 +10,9 @@ try:
     import matplotlib.pyplot as plt
 except ImportError:
     print("❌ 各種ライブラリ がインストールされていません。ターミナルにて、以下のコマンドを実行してください：")
-    print("    pip install numpy")
-    print("    pip install pandas")
-    print("    pip install matplotlib")
+    print("pip3 install numpy")
+    print("pip3 install pandas")
+    print("pip3 install matplotlib")
     exit(1)
 
 
